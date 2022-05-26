@@ -1,0 +1,10 @@
+#ignore everything
+
+*
+*/
+
+#unignore the following
+
+!*.cpp
+!*.h
+!*.gitignore
